@@ -1,0 +1,2 @@
+Hello man, it is a good day to code JavaScript.
+What a wonderful Asynchronous operation.
